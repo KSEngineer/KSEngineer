@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KSEngineer.  I've recently completed a bachelor's degree in business management from BYU-Idaho.  I'm interested in business and in learning many things including software engineering.
+- 👀 I’m interested in becoming a software engineer.  I've spent 10 years driving a semi-truck and enjoyed it.  Now I get to be a transportation manager in a major trucking company.  I enjoy learning and find programming satisfying.
+- 🌱 I’m currently learning Java through a masterclass on Udemy.  Once I have a sufficient understanding of Java I will learn Python, C*, and JavaScript.
+- 💞️ I'm doing some 'beginner' projects I'd like to get some feedback on.  
